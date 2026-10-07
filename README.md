@@ -1,4 +1,3 @@
-# active-directory-home-lab
 # Windows Server & Network Infrastructure Home Lab
 
 A hands-on home lab simulating a small-business Windows environment using VMware Workstation, Windows Server 2022, and Windows 10.
